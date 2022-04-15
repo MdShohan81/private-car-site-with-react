@@ -13,7 +13,7 @@ const Services = () => {
     return (
         <div>
             <div className='container'>
-            <h1 className='text-center text-primary  border-bottom border-info w-25 mx-auto mb-5'>Our Services</h1>
+            <h1 className='text-center text-primary  border-bottom border-info w-25 mx-auto my-5'>Our Services</h1>
             <div className="row gx-3">
                 <div className="col-md-12 Services-container">
                 {
